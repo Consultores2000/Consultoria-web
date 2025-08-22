@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ciudadanía Global Consultores</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    section {
+      padding: 30px;
+      text-align: center;
+    }
+    section img {
+      max-width: 300px;
+      width: 100%;
+      border-radius: 15px;
+      box-shadow: 0px 4px 10px rgba(0,0,0,0.3);
+      margin-top: 15px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Portada -->
+  <header>
+    <img src="portada.jpg" alt="Imagen de portada consultora">
+  </header>
+
+  <!-- Sección Nosotros -->
+  <section id="nosotros">
+    <h2>Nosotros</h2>
+    <p>Somos una consultora dedicada a trámites de ciudadanía, visados y migraciones, con atención personalizada.</p>
+    <img src="equipo.jpg" alt="Nuestro equipo">
+  </section>
+
+  <!-- Sección Servicios -->
+  <section id="servicios">
+    <h2>Servicios</h2>
+    <p>Te ayudamos a gestionar tu ciudadanía extranjera, visados y permisos de trabajo de manera rápida y segura.</p>
+    <img src="servicios.jpg" alt="Servicios de la consultora">
+  </section>
+
+  <!-- Sección Contacto -->
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>📧 ciudadaniaglobalconsultores@gmail.com <br> 📱 Instagram: @ciudadaniaglobalconsultores</p>
+    <img src="contacto.jpg" alt="Imagen de contacto">
+  </section>
+
+</body>
+</html>
